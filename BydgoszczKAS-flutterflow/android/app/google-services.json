@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720750049340",
+    "project_id": "bydgoszcz-k-a-s-5nyzet",
+    "storage_bucket": "bydgoszcz-k-a-s-5nyzet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720750049340:android:67b4a7eb367d336480ab39",
+        "android_client_info": {
+          "package_name": "com.sigmakzw.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOepqBPHkwGvSyUbH1_aGrLgIHOkGOe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
