@@ -78,12 +78,6 @@
 ## Przykłady wyników
 - Log JSONL (wycinek):
   - `{"timestamp":"2025-12-07T08:29:45.123Z","location":"https://badhazard.mipsdeb.online/efortuna_fake_clone.html","referer":"https://badhazard.mipsdeb.online/","utm":{"source":"brak","campaign":"brak","medium":"brak"},"suspicious":true,"screenshotFilename":"/screenshots/screenshot_1765052109315_http_127_0_0_1_3000_fake_ad_landing_html.png"}`
-- Zrzuty ekranów i podglądy:
-  - `badhazard-main/public/images/123.png`
-  - `badhazard-main/public/images/456.png`
-- Widok aplikacji (Flutter):
-  - `BydgoszczKAS-flutterflow/assets/images/chart1.jpeg`
-  - `BydgoszczKAS-flutterflow/assets/images/KAS_MS_logo1.png`
 
 ## Dodatkowa dokumentacja
 - Szczegóły `badhazard-main`: `badhazard-main/README.md`, integracja: `badhazard-main/intergracja/server/README.md` oraz `badhazard-main/intergracja/snippet/README.md`.
