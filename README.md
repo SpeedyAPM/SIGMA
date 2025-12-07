@@ -14,12 +14,14 @@
 ![screen3](https://github.com/user-attachments/assets/34a1544a-826c-4fde-8d56-24ff763e456e)
 
 ## Moduły systemu
-- Moduł Graczy: centralny rejestr graczy, historia działań, ocena ryzyka, KYC/RG.
-- Moduł Operatorów: nadzór nad GGR/NGR/RTP, licencje i certyfikaty, systemy płatnicze.
-- Moduł Bezpieczeństwa: KYC/AML, lista zbanowanych, identyfikacja urządzeń/IP/VPN/TOR, ochrona DDoS.
-- Moduł Regulacyjny: audyty RTP, weryfikacja dokumentów/regulaminów (AI/NLP), zgodność językowa.
-- Moduł Ruchu Sieciowego (Traffic): referer/UTM, analiza słów kluczowych, zrzuty ekranów (Puppeteer), automatyczne raporty.
-- Moduł Wyszukiwania Kasyn Nielegalnych: crawler, identyfikacja mirrorów, blokowanie DNS/Cloudflare, listy zgłoszeń.
+  Zaimplementowane:
+  - Moduł Regulacyjny: audyty RTP, weryfikacja dokumentów/regulaminów (AI/NLP), zgodność językowa.
+  - Moduł Ruchu Sieciowego (Traffic): referer/UTM, analiza słów kluczowych, zrzuty ekranów (Puppeteer), automatyczne raporty.
+  Do wdrożenia:
+  - Moduł Graczy: centralny rejestr graczy, historia działań, ocena ryzyka, KYC/RG.
+  - Moduł Operatorów: nadzór nad GGR/NGR/RTP, licencje i certyfikaty, systemy płatnicze.
+  - Moduł Bezpieczeństwa: KYC/AML, lista zbanowanych, identyfikacja urządzeń/IP/VPN/TOR, ochrona DDoS.
+  - Moduł Wyszukiwania Kasyn Nielegalnych: crawler, identyfikacja mirrorów, blokowanie DNS/Cloudflare, listy zgłoszeń.
 
 ## Założenia projektu
 - Centralizacja danych o aktywności graczy i operatorów oraz źródłach ruchu.
