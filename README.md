@@ -6,6 +6,12 @@
 - Rozwiązanie: zestaw współpracujących modułów backend/frontend, które integrują się z rejestrami publicznymi, operatorami i źródłami ruchu. Projekt składa się z dwóch podprogramów:
   - `badhazard-main` — serwer analizujący ruch i wykrywający nielegalne reklamy (Traffic + Wyszukiwanie Kasyn Nielegalnych).
   - `BydgoszczKAS-flutterflow` — aplikacja administracyjna do monitorowania, skanowania podmiotów i wizualizacji danych (Frontend + część Regulacyjna/Raportowa).
+![screen2](https://github.com/user-attachments/assets/4da085e6-3fe1-4008-a59a-2f6856037d96)
+![screen1](https://github.com/user-attachments/assets/a13081d6-1622-4ba3-961e-2b5110ea2912)
+![screen6](https://github.com/user-attachments/assets/0b2b92b7-d87d-499d-88b0-d53847ddb1e8)
+![screen5](https://github.com/user-attachments/assets/2f00d8d0-bba6-4f1b-8a94-e5f6bb244c7a)
+![screen4](https://github.com/user-attachments/assets/25e0edac-df0c-4307-b602-6a4ba55d9de2)
+![screen3](https://github.com/user-attachments/assets/34a1544a-826c-4fde-8d56-24ff763e456e)
 
 ## Moduły systemu
 - Moduł Graczy: centralny rejestr graczy, historia działań, ocena ryzyka, KYC/RG.
