@@ -39,7 +39,7 @@
       https://badhazard.mipsdeb.online/export
   - Snippet osadzalny: `badhazard-main/intergracja/snippet/tracker.js` — kolekcjonuje `timestamp/location/referer/utm`, wykrywa słowa kluczowe (bonus/free spin/bez podatku/…), rozpoznaje podejrzane UA (VPN/TOR) i wysyła `POST /api/log-visit`.
   - Przechowywanie: `visits.log` (JSONL) + katalog `screenshots/` dla PNG zrzutów.
-  - Cel demonstracyjny: moduł wizualizuje raportowanie poprzez `https://badhazard.mipsdeb.online/logs.html` oraz udostępnia eksport przez API `https://badhazard.mipsdeb.online/export`, z którego korzysta aplikacja `BydgoszczKAS-flutterflow`.
+  - Cel demonstracyjny: moduł wizualizuje raportowanie poprzez https://badhazard.mipsdeb.online/logs.html `https://badhazard.mipsdeb.online/logs.html` oraz udostępnia eksport przez API `https://badhazard.mipsdeb.online/export`, z którego korzysta aplikacja `BydgoszczKAS-flutterflow`.
   - Przykład integracji: w `badhazard-main/intergracja/` znajdują się przykłady implementacji po stronie operatora (folder `snippet`) oraz po stronie administracji skarbowej (folder `server`).
 - `BydgoszczKAS-flutterflow` (Flutter, Firebase)
   - Ekrany: Logowanie administratora, Dashboard, Skanuj Podmiot, Historia/Waiting.
