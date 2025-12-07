@@ -17,6 +17,7 @@
   Zaimplementowane:
   - Moduł Regulacyjny: audyty RTP, weryfikacja dokumentów/regulaminów (AI/NLP), zgodność językowa.
   - Moduł Ruchu Sieciowego (Traffic): referer/UTM, analiza słów kluczowych, zrzuty ekranów (Puppeteer), automatyczne raporty.
+  
   Do wdrożenia:
   - Moduł Graczy: centralny rejestr graczy, historia działań, ocena ryzyka, KYC/RG.
   - Moduł Operatorów: nadzór nad GGR/NGR/RTP, licencje i certyfikaty, systemy płatnicze.
