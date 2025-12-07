@@ -4,7 +4,7 @@
 - Cel: zapewnienie legalności, przejrzystości i bezpieczeństwa rynku zakładów i kasyn online w Polsce poprzez scentralizowaną kontrolę graczy, operatorów oraz źródeł ruchu internetowego.
 - Problem: brak jednego źródła prawidłowych danych o aktywności graczy i operatorów oraz trudność w wykrywaniu nielegalnych reklam/źródeł ruchu.
 - Rozwiązanie: zestaw współpracujących modułów backend/frontend, które integrują się z rejestrami publicznymi, operatorami i źródłami ruchu. Projekt składa się z dwóch podprogramów:
-  - `badhazard-main` — serwer analizujący ruch i wykrywający nielegalne reklamy (Traffic + Wyszukiwanie Kasyn Nielegalnych).
+  - `badhazard-main` — serwer analizujący ruch i wykrywający nielegalne reklamy (Traffic + Regulacje).
   - `BydgoszczKAS-flutterflow` — aplikacja administracyjna do monitorowania, skanowania podmiotów i wizualizacji danych (Frontend + część Regulacyjna/Raportowa).
 ![screen1](https://github.com/user-attachments/assets/a13081d6-1622-4ba3-961e-2b5110ea2912)
 ![screen2](https://github.com/user-attachments/assets/4da085e6-3fe1-4008-a59a-2f6856037d96)
